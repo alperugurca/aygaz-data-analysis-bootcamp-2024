@@ -1,0 +1,1 @@
+# aygaz-data-analysis-bootcamp-2024
