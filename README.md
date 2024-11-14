@@ -1,5 +1,8 @@
 # Adult Census Income Prediction - Data Analysis Project
 
+Github: https://github.com/alperugurca/aygaz-data-analysis-bootcamp-2024
+Kaggle: https://www.kaggle.com/code/alperugurca/adult-income-dataset
+
 ## Project Summary
 This project presents a comprehensive data analysis of the Adult Census Income dataset from the UCI Machine Learning Repository. The primary goal is to predict whether an individual's annual income exceeds $50,000 based on various demographic and socioeconomic factors from US census data.
 
