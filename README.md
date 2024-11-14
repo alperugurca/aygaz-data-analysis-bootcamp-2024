@@ -1,6 +1,7 @@
 # Adult Census Income Prediction - Data Analysis Project
 
 Github: https://github.com/alperugurca/aygaz-data-analysis-bootcamp-2024
+
 Kaggle: https://www.kaggle.com/code/alperugurca/adult-income-dataset
 
 ## Project Summary
